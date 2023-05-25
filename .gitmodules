@@ -1,0 +1,4 @@
+[submodule "RT/miniRT/mini_raytracing_in_c"]
+	path = RT/miniRT/mini_raytracing_in_c
+	url = https://github.com/GaepoMorningEagles/mini_raytracing_in_c
+	branch = main
